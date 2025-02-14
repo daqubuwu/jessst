@@ -1,4 +1,4 @@
-import { sum } from './index';
+import { sum } from '../math';
 import { describe, test, expect } from '@jest/globals';
 describe('Sum function', () => {
     test('Returns correct value', () => {
